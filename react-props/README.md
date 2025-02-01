@@ -4,7 +4,10 @@
 
 Single Page Application (SPA) Using React Props & React Router
 📖 Overview
-This project is a Single Page Application (SPA) built using React.js, where different pages (Home, About, and Contact) are displayed dynamically using React Router. The application demonstrates how to pass data via props, manage navigation efficiently, and create a modern, responsive UI.
+This project is a Single Page Application (SPA) built using React.js, where different pages
+(Home, About, and Contact) are displayed dynamically using React Router. The application  
+demonstrates how to pass data via props, manage navigation efficiently, and create a modern, 
+responsive UI.
 
 🚀 Features
 ✅ React Router Implementation – Allows seamless navigation between multiple pages.
@@ -14,8 +17,8 @@ This project is a Single Page Application (SPA) built using React.js, where diff
 
 
 
-
 📂 Folder Structure
+
 
 /react-spa-project
 │── /public
@@ -35,27 +38,54 @@ This project is a Single Page Application (SPA) built using React.js, where diff
 
 
 
+
+
+
 🛠️ Technologies Used
 React.js (Vite for fast build)
 React Router DOM (For navigation)
 CSS3 (For styling and responsiveness)
 
 
+
 ▶️ How to Run the Project
 Clone the repository
-
 git clone https://github.com/your-username/react-spa-project.git
 cd react-spa-project
-Install dependencies
 
+Install dependencies
 npm install
 Start the development server
-
 npm run dev
 Open http://localhost:5173 in your browser.
 📷 Preview
-
 📩 Contact & Contributions
 Feel free to contribute to the project! For any issues, open a ticket or reach out. 🚀
-
 Let me know if you need modifications! 🎯
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
